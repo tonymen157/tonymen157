@@ -45,9 +45,3 @@ Especializado en transformar información compleja en métricas claras para faci
 * **El Reto:** Identificar cuellos de botella en la logística midiendo tiempos de entrega, estacionalidad y satisfacción del cliente.
 * **El Impacto:** Ejecuté procesos ETL para limpiar y estructurar una base de datos real, utilizando IA generativa para acelerar drásticamente la creación de consultas SQL complejas para los tableros interactivos.
 * **Stack:** `Power BI` `SQL` `IA Generativa`
-
----
-
-### 📈 Mis Estadísticas en GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tonymen157&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5)
